@@ -1,0 +1,2 @@
+module HealthEquipmentHelper
+end
